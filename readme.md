@@ -1,15 +1,22 @@
 # Project Name : ONLINE COMPILER
 
 Team Members :- <br><br>
-Name : Nikhil Tiwari<br>
-University Roll No. : 23071003447<br>
-Semester : 2nd<br>
-<img src="./client-side/src/images/nikhil.jpeg.jpg" alt="Nikhil Tiwari" width="150" /><br>
-
-Name : Himanshu Verma<br>
-University Roll No. : 23071003366<br>
-Semester : 2nd<br>
-<img src="./client-side/src/images/himanshu.jpg" alt="Himanshu Verma" width="150" /><br>
+<table>
+  <tr>
+    <td>
+      <strong>Name:</strong> Nikhil Tiwari<br>
+      <strong>University Roll No.:</strong> 23071003447<br>
+      <strong>Semester:</strong> 2nd<br>
+      <img src="./client-side/src/images/nikhil.jpeg.jpg" alt="Nikhil Tiwari" width="150" />
+    </td>
+    <td>
+      <strong>Name:</strong> Himanshu Verma<br>
+      <strong>University Roll No.:</strong> 23071003366<br>
+      <strong>Semester:</strong> 2nd<br>
+      <img src="./client-side/src/images/himanshu.jpg" alt="Himanshu Verma" width="150" />
+    </td>
+  </tr>
+</table>
 
 Introduction :-<br>
 This online compiler project allows users to write, compile, and run code in various programming languages, including C, C++, Java, Python, and JavaScript. The project also includes features for user authentication, contact us, and more.<br><br>
