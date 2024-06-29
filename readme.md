@@ -7,13 +7,13 @@ Team Members :- <br><br>
       <strong>Name:</strong> Nikhil Tiwari<br>
       <strong>University Roll No.:</strong> 23071003447<br>
       <strong>Semester:</strong> 2nd<br>
-      <img src="./client-side/src/images/nikhil.jpeg.jpg" alt="Nikhil Tiwari" width="150" />
+      <img src="./client-side/src/images/nikhil.jpeg.jpg" alt="Nikhil Tiwari" width="250" />
     </td>
     <td>
       <strong>Name:</strong> Himanshu Verma<br>
       <strong>University Roll No.:</strong> 23071003366<br>
       <strong>Semester:</strong> 2nd<br>
-      <img src="./client-side/src/images/himanshu.jpg" alt="Himanshu Verma" width="150" />
+      <img src="./client-side/src/images/himanshu.jpg" alt="Himanshu Verma" width="250" />
     </td>
   </tr>
 </table>
