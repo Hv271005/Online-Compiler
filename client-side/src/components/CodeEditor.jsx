@@ -251,7 +251,7 @@ function CodeEditor() {
                 </div>
 
                 {/* code-editor */}
-                <div className={`${CodeButton === true ? '' : 'hidden'} h-full w-full text-sm`}>
+                <div className={`${CodeButton === true ? '' : 'hidden'} h-full w-full text-sm relative z-0`}>
                   <Editor
                       height="100%"
                       width="100%"
@@ -345,7 +345,7 @@ function CodeEditor() {
                 </div>
 
                 {/* code-editor */}
-                <div className={`${CodeButton === true ? '' : 'hidden'} h-full w-full`}>
+                <div className={`${CodeButton === true ? '' : 'hidden'} h-full w-full relative z-0`}>
                   <Editor
                       fontsize = "12"
                       height="100%"

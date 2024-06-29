@@ -15,22 +15,7 @@ function Navbar() {
     const unsubscribe = auth.onAuthStateChanged(user => {
       if (user) {
         setIsLoggedIn(true); 
-        setUsername(user.displayName || 'Anonymous');
-        const userProfileRef = doc(firestore, "users", user.uid);
-        // console.log(userProfileRef);
-  
-        // getDoc(userProfileRef).then((docSnapshot) => {
-        //   if (docSnapshot.exists()) {
-        //     const userData = docSnapshot.data();
-        //     setUsername(userData.email || 'Anonymous');
-        //     console.log(username);
-        //   } else {
-        //     console.log('No such document!');
-        //   }
-        // }).catch((error) => {
-        //   console.error('Error getting document:', error);
-        // });
-  
+        setUsername(user.displayName || 'Anonymous');  
       } else {
         setIsLoggedIn(false);
         setUsername('');
@@ -164,7 +149,7 @@ function Navbar() {
           </div>
         </div>
         {isOpen && (
-          <div className="lg:hidden bg-slate-700 text-white">
+          <div className="lg:hidden bg-slate-700 text-white relative z-10">
             <ul className="flex flex-col space-y-4 p-4">
               <li className="hover:font-bold">
                 <NavLink
