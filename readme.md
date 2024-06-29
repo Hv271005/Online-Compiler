@@ -4,12 +4,12 @@ Team Members :-
 Name : Nikhil Tiwari 
 University Roll No. : 23071003447
 Semester : 2nd
-![Image Description](./client-side-code/src/images/nikhil.jpeg.jpg)
+![Image Description](./client-side/src/images/nikhil.jpeg.jpg)
 
 Name : Himanshu Verma 
 University Roll No. : 23071003366
 Semester : 2nd
-![Image Description](./client-side-code/src/images/himanshu.jpg)
+![Image Description](./client-side/src/images/himanshu.jpg)
 
 Introduction :-
 This online compiler project allows users to write, compile, and run code in various programming languages, including C, C++, Java, Python, and JavaScript. The project also includes features for user authentication, contact us, and more.
