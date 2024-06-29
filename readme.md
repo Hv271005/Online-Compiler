@@ -1,7 +1,7 @@
 # Project Name : ONLINE COMPILER
 
 Team Members :- <br><br>
-<table border:none>
+<table style="border-collapse: collapse;cellspacing: 3;">
   <tr>
     <td>
       <strong>Name:</strong> Nikhil Tiwari<br>
